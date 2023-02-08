@@ -1,5 +1,8 @@
-site_name: My Docs
-my-project/
-    mkdocs.yml
-    docs/
-erik-lf_8.github.io/
+site_name: Projektname
+nav:
+  - index.md
+theme: material
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
