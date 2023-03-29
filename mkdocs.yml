@@ -1,6 +1,6 @@
 site_name: Projektname
 nav:
-  - index.md
+  - "Herzlich Willkommen": index.md
 theme: material
 markdown_extensions:
   - admonition
