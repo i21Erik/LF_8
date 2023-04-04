@@ -18,7 +18,9 @@ und möchte den Prozess seiner **Angebotserstellung** für deren Kunden verbesse
 
 ## Analyse
 ### Diagramme
-Zum [Anwendungsfall-Diagramm](diagram/Use-case-diagram.drawio).
+
+Zum [Anwendungsfall-Diagramm](diagram/Use-case-diagram.drawio).  
+
 Zum [Sequenz-Diagramm](diagram/Sequenzdiagramm.drawio)
 
 ### Datenquellen/Datentypen
