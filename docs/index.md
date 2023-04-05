@@ -1,23 +1,34 @@
-# Willkommen
+# Projektdokumentation
 
-Dies ist eine Dokumentation.
+## Problemstellung
 
-!!! quote "Ein Zitat"
-    Markdown ist sehr flexibel.
+### Eigene Firma
 
-## Die Basics...
+Wir sind das Softwareentwicklungsunternehmen SoftwareDD GmbH.
 
-Der Text ist *kursiv*, dieser **fett**
+### Der Kunde
 
-Eine Tabelle:
+Die ITSystemHausDD GmbH, ist im Bereich der Systemintegration tätig
+und möchte den Prozess seiner **Angebotserstellung** für deren Kunden verbessern.
 
-|Kopfzeile|Kopfzeile|
-|---|---|
-|Zelle|Zelle|
+## Das Team
+|Bac|Gregor|Erik|Vassim|
+|---|---|---|---|
+|Use-Case, Dokumentation|Sequenzdiagramm|Datenquellen, Git|???|
+
+## Analyse
+### Diagramme
+
+Zum [Anwendungsfall-Diagramm](diagram/Use-case-diagram.drawio).  
+
+Zum [Sequenz-Diagramm](diagram/Sequenzdiagramm.drawio)
+
+### Datenquellen/Datentypen
 
 [... im Internet](https://www.markdownguide.org/basic-syntax/)
 
 ---
 
 Zum [Impressum](legal/imprint.md).
+
 ​
