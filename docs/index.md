@@ -14,7 +14,7 @@ und möchte den Prozess seiner **Angebotserstellung** für deren Kunden verbesse
 ## Das Team
 |Bac|Gregor|Erik|Vassim|
 |---|---|---|---|
-|Use-Case, Dokumentation|Sequenzdiagramm|Datenquellen, Git|???|
+|33% (Use-Case, Dokumentation)|33% (Sequenzdiagramm)|33% (Datenquellen, Git)|1% ()|
 
 ## Analyse
 ### Diagramme
