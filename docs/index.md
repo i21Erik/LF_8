@@ -14,7 +14,7 @@ und möchte den Prozess seiner **Angebotserstellung** für deren Kunden verbesse
 ## Das Team
 |Bac|Gregor|Erik|Vassim|
 |---|---|---|---|
-|Use-Case, Dokumentation|Sequenzdiagramm|Datenquellen, Git|???|
+|33% (Use-Case, Dokumentation)|33% (Sequenzdiagramm)|33% (Datenquellen, Git)|1% ()|
 
 ## Analyse
 ### Diagramme
@@ -25,7 +25,7 @@ Zum [Sequenz-Diagramm](diagram/Sequenzdiagramm.drawio)
 
 ### Datenquellen/Datentypen
 
-[... im Internet](https://www.markdownguide.org/basic-syntax/)
+Zur [Phase 5 Datenquellen/Datentypen](pdf/Aufgabe_5.pdf)
 
 ---
 
