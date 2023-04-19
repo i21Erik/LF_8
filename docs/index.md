@@ -1,6 +1,6 @@
 # Projektdokumentation
 
-## Problemstellung
+## Problemstellung/Fallbeispiel
 
 ### Eigene Firma
 
@@ -11,24 +11,31 @@ Wir sind das Softwareentwicklungsunternehmen SoftwareDD GmbH.
 Die ITSystemHausDD GmbH, ist im Bereich der Systemintegration tätig
 und möchte den Prozess seiner **Angebotserstellung** für deren Kunden verbessern.
 
-## Das Team
+## Das Projekt-Team und Anteile an der Bearbeitung
 |Bac|Gregor|Erik|Vassim|
 |---|---|---|---|
-|33% (Use-Case, Dokumentation)|33% (Sequenzdiagramm)|33% (Datenquellen, Git)|1% ()|
+|33% (Use-Case, Dokumentation)|33% (Sequenzdiagramm)|33% (Datenquellen, Git)|1% (nicht anwesend)|
 
-## Analyse
-### Diagramme
+## Phasen der Bearbeitung
+### Phase 1 - Beschreibung der Geschäftsprozess-Szenarien
 
 Zum [Anwendungsfall-Diagramm](diagram/Use-case-diagram.drawio).  
 
+### Phase 2 - Einrichtung der gemeinsamen Dokumentenablage mit git
+
+Zur [Github-Repository](https://github.com/i21Erik/LF_8/)
+
+### Phase 3 - Darstellung der zeitlichen Reihenfolge der Tätigkeiten
+
 Zum [Sequenz-Diagramm](diagram/Sequenzdiagramm.drawio)
 
-### Datenquellen/Datentypen
+### Phase 4 - Erstellung eines Projekt-Wikis
 
-Zur [Phase 5 Datenquellen/Datentypen](pdf/Aufgabe_5.pdf)
+Projekt-Wiki mit [Github-Pages](https://i21erik.github.io/LF_8/) 
 
----
+### Phase 5: Analyse von Datenquellen und der elektronischen Varianten
 
-Zum [Impressum](legal/imprint.md).
+Zu [Datenquellen/Datentypen](pdf/Aufgabe_5.pdf)
+
 
 ​
