@@ -25,7 +25,7 @@ Zum [Sequenz-Diagramm](diagram/Sequenzdiagramm.drawio)
 
 ### Datenquellen/Datentypen
 
-[... im Internet](https://www.markdownguide.org/basic-syntax/)
+Zur [Phase 5 Datenquellen/Datentypen](pdf/Aufgabe_5.pdf)
 
 ---
 
