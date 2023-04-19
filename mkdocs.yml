@@ -1,7 +1,6 @@
 site_name: LF8-Projekt
 nav:
   - "Übersichtsseite": index.md
-  - "Daten und Quellen": phase5.md
 theme: material
 markdown_extensions:
   - admonition
